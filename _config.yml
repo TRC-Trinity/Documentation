@@ -1,10 +1,16 @@
+name: TRC Trinity Documentation
 title: TRC Trinity Documentation
+logo: "/assets/images/just-the-docs.png"
 description: The official documentation website for products sold by TRC Trinity.
-theme: just-the-docs
-
 url: docs.trctrinity.com
-aux_links_new_tab: false
 
+theme: just-the-docs
+color_scheme: TRCTrinity
+
+search_enabled: true
+search.button: true
+
+aux_links_new_tab: false
 aux_links:
   Github Repository: https://github.com/TRC-Trinity/Documentation
-  TRC Trinity Home: trctrinity.com
+  TRC Trinity Home: https://trctrinity.com
