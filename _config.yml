@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: TRC Trinity Documentation
+description: The official documentation website for products sold by TRC Trinity.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: docs.trctrinity.com
+aux_links_new_tab: false
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github Repository: https://github.com/TRC-Trinity/Documentation
+  TRC Trinity Home: trctrinity.com
