@@ -7,7 +7,7 @@ nav_order: 5
 
 # TRC Trinity Voron 2.4 Build Guide
 
-This is the official build guide / manual for the TRC Trinity Voron 2.4 kit.
+###This is the official build guide / manual for the TRC Trinity Voron 2.4 kit.
 
 This manual is partially based on other guides. We recommend to read them all to get a basic understanding of how Voron 2.4s are built. You can find the base guides which are used in this manual here:
 - [Official Voron 2.4 Assembly Manual](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf){:target="_blank"}
