@@ -7,9 +7,7 @@ nav_order: 2
 
 # Klipper Guide
 
-This is our Klipper guide for installing and configuring Klipper your 3D printer. This guide works for all the builds documented on this website and should also be compatible with most printers.
+This is our Klipper guide for installing and configuring Klipper your 3D printer. This guide works for all the builds documented on this website and should also be compatible with most other printers.
 
 Some bits in this guide are based on other guides. You should check them out and support them here:
-- [Ellis' Print tuning guide](https://ellis3dp.com/Print-Tuning-Guide/)
-- [Voron Documentation](https://docs.vorondesign.com/tuning/)
-- [Teaching Tech 3D Printer Calibration](https://teachingtechyt.github.io/calibration.html)
+- [Official Klipper website](https://www.klipper3d.org/){:target="_blank"}
